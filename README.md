@@ -1,7 +1,7 @@
 <h1 align="center">LIVE INFORMATION</h1>
 <h3 align="center">Pradipta Ramadan Live Streaming information</h3>
 
-<p>=== ooo ===
+<p>=== ooo ===</p>
 
 - 💻 Untuk melihat spesifikasi pc saya | <a href="https://raw.githubusercontent.com/PradiptaRS/LiveStream/main/spec" target="_blank">spec</a>
 
