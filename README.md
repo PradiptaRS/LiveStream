@@ -1,30 +1,22 @@
-<h1 align="center">ABC Takiyadip</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">LIVE INFORMATION</h1>
+<h3 align="center">Pradipta Ramadan Live STreaming information</h3>
 
-- 🔭 I’m currently working on [1](spec)
+- 💻 Untuk melihat spesifikasi pc saya | [spesifikasi](spec)
 
-- 🌱 I’m currently learning **4**
+- ⚙️ Untuk melihat equipment yang saya gunakan | [gear](gear)
 
-- 👯 I’m looking to collaborate on [2](2a)
+- 💰 Untuk memberi dukungan | <a href="https://sociabuzz.com/pradipta_rs/tribe" target="_blank">donate</a>
 
-- 🤝 I’m looking for help with [3](3a)
+- 🤝 Melihat Status | [status](status)
 
-- 👨‍💻 All of my projects are available at [7](7)
+<h3 align="center">Partnership</h3>
 
-- 📝 I regularly write articles on [8](8)
-
-- 💬 Ask me about **5**
-
-- 📫 How to reach me **6**
-
-- 📄 Know about my experiences [9](9)
-
-- ⚡ Fun fact **10**
+- 💎 Discord Nitro | <a href="https://discord.gg/fUXxm7Q" target="_blank">dinotrostore</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/r_sandriii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="r_sandriii" height="30" width="40" /></a>
-<a href="https://fb.com/takiyadip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="takiyadip" height="30" width="40" /></a>
-<a href="https://instagram.com/elvxk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elvxk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pradipta ramadan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pradipta ramadan" height="30" width="40" /></a>
+<a href="https://twitter.com/r_sandriii" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="r_sandriii" height="30" width="40" /></a>
+<a href="https://fb.com/takiyadip" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="takiyadip" height="30" width="40" /></a>
+<a href="https://instagram.com/elvxk" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elvxk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pradipta ramadan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pradipta ramadan" height="30" width="40" /></a>
 </p>
