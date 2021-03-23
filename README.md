@@ -1,7 +1,7 @@
 <h1 align="center">ABC Takiyadip</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [1](1a)
+- 🔭 I’m currently working on [1](spec)
 
 - 🌱 I’m currently learning **4**
 
