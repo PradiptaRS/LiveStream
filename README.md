@@ -5,6 +5,7 @@ RAM       : DDR3 16Gb (2x8Gb)
 VGA       : NVIDIA GeForce GTX 1650
 Storage   : SSD 256Gb + HDD 1Tb
 
+<h1 align="center">ABC Takiyadip</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
