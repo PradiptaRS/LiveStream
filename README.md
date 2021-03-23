@@ -5,8 +5,28 @@ RAM       : DDR3 16Gb (2x8Gb)
 VGA       : NVIDIA GeForce GTX 1650
 Storage   : SSD 256Gb + HDD 1Tb
 
-<h1 align="center">LIVE STREAM INFO</h1>
-<h3 align="center">Pradipta Ramadan Live Stream information</h3>
+<h1 align="center">ABC Takiyadip</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on [1](1a)
+
+- 🌱 I’m currently learning **4**
+
+- 👯 I’m looking to collaborate on [2](2a)
+
+- 🤝 I’m looking for help with [3](3a)
+
+- 👨‍💻 All of my projects are available at [7](7)
+
+- 📝 I regularly write articles on [8](8)
+
+- 💬 Ask me about **5**
+
+- 📫 How to reach me **6**
+
+- 📄 Know about my experiences [9](9)
+
+- ⚡ Fun fact **10**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
