@@ -1,17 +1,18 @@
 <h1 align="center">LIVE INFORMATION</h1>
 <h3 align="center">Pradipta Ramadan Live STreaming information</h3>
 
-- 💻 Untuk melihat spesifikasi pc saya | [spesifikasi](spec)
+- 💻 Untuk melihat spesifikasi pc saya | <a href="https://raw.githubusercontent.com/PradiptaRS/LiveStream/main/spec" target="_blank">spec</a>
 
-- ⚙️ Untuk melihat equipment yang saya gunakan | [gear](gear)
+- ⚙️ Untuk melihat equipment yang saya gunakan | <a href="https://raw.githubusercontent.com/PradiptaRS/LiveStream/main/gear" target="_blank">gear</a>
 
 - 💰 Untuk memberi dukungan | <a href="https://sociabuzz.com/pradipta_rs/tribe" target="_blank">donate</a>
 
-- 🤝 Melihat Status | [status](status)
+- 🤝 Melihat Status | <a href="https://raw.githubusercontent.com/PradiptaRS/LiveStream/main/status" target="_blank">status</a>
 
 <h3 align="center">Partnership</h3>
 
-- 💎 Discord Nitro | <a href="https://discord.gg/fUXxm7Q" target="_blank">dinotrostore</a>
+💎 DINOTROSTORE | Discord Nitro
+- <a href="https://discord.gg/fUXxm7Q" target="_blank">discord</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
